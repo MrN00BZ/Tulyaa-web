@@ -1,0 +1,68 @@
+[
+  {
+    "id":"daraz_headphone-001",
+    "category":"Headphones",
+    "name":"SONY WH-CH520 Wireless Headphone",
+    "company":"Sony",
+    "price":13500,
+    "currency":"NPR",
+    "store":"Daraz",
+    "storeUrl":"https:\/\/www.daraz.com.np\/products\/sony-wh-ch520-wireless-headphones-i127972497-s1035016194.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253A%253Bnid%253A127972497%253Bsrc%253ALazadaMainSrp%253Brn%253Ad623b4f9c96b94a7c6f69b4b3babd281%253Bregion%253Anp%253Bsku%253A127972497_NP%253Bprice%253A13500%253Bclient%253Adesktop%253Bsupplier_id%253A7717%253Bbiz_source%253Ah5_external%253Bslot%253A1%253Butlog_bucket_id%253A470687%253Basc_category_id%253A156%253Bitem_id%253A127972497%253Bsku_id%253A1035016194%253Bshop_id%253A8898%253BtemplateInfo%253A-1_A3_C%25231103_L%2523&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Bagmati%20Province&price=1.35E%204&priceCompare=skuId%3A1035016194%3Bsource%3Alazada-search-voucher%3Bsn%3Ad623b4f9c96b94a7c6f69b4b3babd281%3BoriginPrice%3A1350000%3BdisplayPrice%3A1350000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1751681758351&ratingscore=4.25&request_id=d623b4f9c96b94a7c6f69b4b3babd281&review=4&sale=35&search=1&source=search&spm=a2a0e.searchlistcategory.list.1&stock=1",
+    "imageUrl":"https:\/\/img.drz.lazcdn.com\/static\/np\/p\/47c7da8c85f83fe89e34552f9514c127.png_720x720q80.png_.webp"
+  },
+  {
+    "id":"olizstore_headphone-001",
+    "category":"Headphones",
+    "name":"SONY WH-CH520 Wireless Headphone",
+    "company":"Sony",
+    "price":10350,
+    "currency":"NPR",
+    "store":"Oliz Store",
+    "storeUrl":"https:\/\/www.olizstore.com\/sony-wh-ch520-wireless-headphones-with-microphone.html",
+    "imageUrl":"https:\/\/www.olizstore.com\/media\/catalog\/product\/cache\/a04ec30316eb04ee0a0c68cae51f73f4\/s\/c\/screenshot_2025-03-31_at_15.29.07.png"
+  },
+  {
+    "id":"hukutstore_headphone-001",
+    "category":"Headphones",
+    "name":"Anker Soundcore Space One",
+    "company":"Anker",
+    "price":17999,
+    "currency":"NPR",
+    "store":"Daraz",
+    "storeUrl":"https:\/\/www.daraz.com.np\/products\/apple-iphone-16-pro-max-69-inch-super-retina-xdr-oled-display-a18-chip-pro-camera-system-i164897694-s1181305969.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253Aiphone%252B16%252Bpro%252Bmax%253Bnid%253A164897694%253Bsrc%253ALazadaMainSrp%253Brn%253Affec1632a3e899f9780152ebee474d40%253Bregion%253Anp%253Bsku%253A164897694_NP%253Bprice%253A197000%253Bclient%253Adesktop%253Bsupplier_id%253A900157560206%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.np%252F%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A3%253Bitem_id%253A164897694%253Bsku_id%253A1181305969%253Bshop_id%253A94016%253BtemplateInfo%253A-1_A3_C%25231103_L%2523&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Bagmati%20Province&price=1.97E%205&priceCompare=skuId%3A1181305969%3Bsource%3Alazada-search-voucher%3Bsn%3Affec1632a3e899f9780152ebee474d40%3BoriginPrice%3A19700000%3BdisplayPrice%3A19700000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1751630034765&ratingscore=5.0&request_id=ffec1632a3e899f9780152ebee474d40&review=3&sale=6&search=1&source=search&spm=a2a0e.searchlist.list.2&stock=1",
+    "imageUrl":"https:\/\/img.drz.lazcdn.com\/static\/np\/p\/7ed0083d10bf5c722b301ecb68e1806c.png_720x720q80.png_.webp"
+  },
+  {
+    "id":"ankerstore_headphone-001",
+    "category":"Headphones",
+    "name":"Anker Soundcore Space One",
+    "company":"Anker",
+    "price":24999,
+    "currency":"NPR",
+    "store":"Anker Store",
+    "storeUrl":"https:\/\/ankernepal.com\/shop\/soundcore-by-anker-space-one-pro-foldable-over-ear-headphones\/",
+    "imageUrl":"https:\/\/i0.wp.com\/ankernepal.com\/wp-content\/uploads\/2024\/11\/space-one-pro-anker.webp?resize=768%2C768&ssl=1"
+  },
+  {
+    "id":"fantech_phone-001",
+    "category":"Headphones",
+    "name":"ALTO MH91 MULTI PLATFORM GAMING HEADSET",
+    "company":"Fantech",
+    "price":5999,
+    "currency":"NPR",
+    "store":"Fantech Store",
+    "storeUrl":"https:\/\/www.fantech.com.np\/product\/fantech-alto-mh91-multiplatform-headset-gaming-mobile-free-splitter-headset-stand\/",
+    "imageUrl":"https:\/\/www.fantech.com.np\/wp-content\/uploads\/2024\/11\/Headset-Gaming-ALTO-MH91.jpg"
+  },
+  {
+    "id":"daraz_headphone-002",
+    "category":"Headphones",
+    "name":"ALTO MH91 MULTI PLATFORM GAMING HEADSET",
+    "company":"Fantech",
+    "price":5999,
+    "currency":"NPR",
+    "store":"Fantech Store",
+    "storeUrl":"https:\/\/www.daraz.com.np\/products\/fantech-alto-mh91-gaming-headset-built-in-microphone-wired-on-ear-i126180587-s1034179167.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253A%253Bnid%253A126180587%253Bsrc%253ALazadaMainSrp%253Brn%253Ab17b8dffcb171e82b5f827691762129f%253Bregion%253Anp%253Bsku%253A126180587_NP%253Bprice%253A5999%253Bclient%253Adesktop%253Bsupplier_id%253A900153174089%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.np%252F%253Bslot%253A9%253Butlog_bucket_id%253A470687%253Basc_category_id%253A10002907%253Bitem_id%253A126180587%253Bsku_id%253A1034179167%253Bshop_id%253A59263%253BtemplateInfo%253A-1_A3_C%25231103_L%2523&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Bagmati%20Province&price=5999&priceCompare=skuId%3A1034179167%3Bsource%3Alazada-search-voucher%3Bsn%3Ab17b8dffcb171e82b5f827691762129f%3BoriginPrice%3A599900%3BdisplayPrice%3A599900%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1751682328285&ratingscore=4.588235294117647&request_id=b17b8dffcb171e82b5f827691762129f&review=17&sale=70&search=1&source=search&spm=a2a0e.searchlistcategory.list.9&stock=1",
+    "imageUrl":"https:\/\/img.drz.lazcdn.com\/static\/np\/p\/fbea6f87d2d4afbfa8fe2ba4dda27a36.jpg_720x720q80.jpg_.webp"
+  }
+]

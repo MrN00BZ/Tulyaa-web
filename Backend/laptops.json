@@ -1,0 +1,112 @@
+[
+  {
+    "id": "muditastore_laptop-001",
+    "category": "Laptop",
+    "name": "Apple MacBook Air M1",
+    "company": "Apple",
+    "price": 103999,
+    "currency": "NPR",
+    "store": "Mudita Store",
+    "storeUrl": "https://mudita.com.np/macbook-air-m1-price-in-nepal.html",
+    "imageUrl": "https://mudita.com.np/media/catalog/product/cache/036aa47742df3225beb764097d8b4fe8/m/a/macboook-air-m1-price-in-nepal.webp"
+  },
+  {
+    "id": "olizstore_laptop-001",
+    "category": "Laptop",
+    "name": "Apple MacBook Air M1",
+    "company": "Apple",
+    "price": 105000,
+    "currency": "NPR",
+    "store": "Oliz Store",
+    "storeUrl": "https://www.olizstore.com/apple-products/mac/macbook-air/apple-macbook-air-13-inch-m1-256gb-space-grey.html",
+    "imageUrl": "https://www.olizstore.com/media/catalog/product/cache/a04ec30316eb04ee0a0c68cae51f73f4/m/a/macbook-air-space-gray-config-201810_3.jpeg"
+  },
+  {
+    "id": "itti_laptop-001",
+    "category": "Laptop",
+    "name": "Apple MacBook Air M1",
+    "company": "Apple",
+    "price": 105000,
+    "currency": "NPR",
+    "store": "Itti",
+    "storeUrl": "https://itti.com.np/product/apple-m1-macbook-air-2020-price-nepal",
+    "imageUrl": "https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Fapple-m1-macbook-air-2020-price-nepal%2Fthumb%2F1fc61404-b87f-4bf1-8e65-acd469fc2b32.jpeg&w=256&q=75"
+  },
+  {
+    "id": "muditastore_laptop-002",
+    "category": "Laptop",
+    "name": "Apple MacBook Pro M4",
+    "company": "Apple",
+    "price": 266999,
+    "currency": "NPR",
+    "store": "Mudita Store",
+    "storeUrl": "https://mudita.com.np/14-inch-apple-macbook-pro-m4-price-nepal.html",
+    "imageUrl": "https://mudita.com.np/media/catalog/product/cache/036aa47742df3225beb764097d8b4fe8/m/a/macbook-pro-m4-16gb-512gb-freebies.webp"
+  },
+  {
+    "id": "evostore_laptop-001",
+    "category": "Laptop",
+    "name": "Apple MacBook Pro M4",
+    "company": "Apple",
+    "price": 269000,
+    "currency": "NPR",
+    "store": "Evostore",
+    "storeUrl": "https://evostore.com.np/MacBook-Pro/macbook-pro-14-inch-m4-2024-10c-cpu-10c-gpu-16gb-512gb",
+    "imageUrl": "https://evostore.com.np/image/cache/catalog/Apple/MacBook%20Pro%20M4/MacBook_Pro_14-inch_M4_chip_Space_Black_PDP_Image_Position_2__ROSA-EN-400x400.jpg"
+  },
+  {
+    "id": "hukutstore_laptop-001",
+    "category": "Laptop",
+    "name": "Apple MacBook Pro M4",
+    "company": "Apple",
+    "price": 264999,
+    "currency": "NPR",
+    "store": "Hukut Store",
+    "storeUrl": "https://hukut.com/apple-macbook-pro-m4-14-inch",
+    "imageUrl": "https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FApple-MacBook-Pro-M4-space-black-Price-in-Nepal.png1732615917100&w=1920&q=75"
+  },
+  {
+    "id": "muditastore_laptop-002",
+    "category": "Laptop",
+    "name": "ASUS ROG Strix G16",
+    "company": "Asus",
+    "price": 313999,
+    "currency": "NPR",
+    "store": "Mudita Store",
+    "storeUrl": "https://mudita.com.np/asus-rog-strix-g16-i9-14900hx-4070-price-nepal.html",
+    "imageUrl": "https://mudita.com.np/media/catalog/product/cache/036aa47742df3225beb764097d8b4fe8/s/t/strix-g16-i9-14900hx-4070.webp"
+  },
+  {
+    "id": "itti_laptop-002",
+    "category": "Laptop",
+    "name": "ASUS ROG Strix G16",
+    "company": "Asus",
+    "price": 320000,
+    "currency": "NPR",
+    "store": "Itti",
+    "storeUrl": "https://itti.com.np/product/asus-rog-strix-g16-2024-price-nepal",
+    "imageUrl": "https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Fasus-rog-strix-g16-2024-price-nepal%2Fthumb%2Ffda30654-9908-47c2-b6ff-b2e50b2850ae.webp&w=384&q=75"
+  },
+  {
+    "id": "muditastore_laptop-003",
+    "category": "Laptop",
+    "name": "Lenovo LOQ Gaming Laptop 2025",
+    "company": "Lenovo",
+    "price": 114999,
+    "currency": "NPR",
+    "store": "Mudita Store",
+    "storeUrl": "https://mudita.com.np/lenovo-loq-i5-12450hx-4050-price-in-nepal.html",
+    "imageUrl": "https://mudita.com.np/media/catalog/product/cache/036aa47742df3225beb764097d8b4fe8/l/e/lenovo-loq-15iax9-i5-price-in-nepal.webp"
+  },
+  {
+    "id": "itti_laptop-003",
+    "category": "Laptop",
+    "name": "Lenovo LOQ Gaming Laptop 2025",
+    "company": "Lenovo",
+    "price": 139000,
+    "currency": "NPR",
+    "store": "Itti",
+    "storeUrl": "https://itti.com.np/product/lenovo-loq-gaming-laptop-i5-12450hx-4050-price-nepal",
+    "imageUrl": "https://itti.com.np/_next/image?url=https%3A%2F%2Fadmin.itti.com.np%2Fstorage%2Fproduct%2Flenovo-loq-gaming-laptop-i5-12450hx-4050-price-nepal%2Fthumb%2F8909de93-810e-4c4a-b73a-1ae7a37e3cff.webp&w=384&q=75"
+  }
+]

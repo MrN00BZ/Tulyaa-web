@@ -1,0 +1,68 @@
+[
+  {
+    "id":"ufo_clothing-001",
+    "category":"Clothing",
+    "name":"Contrast Polo Shirt",
+    "company":"UFO",
+    "price":2278,
+    "currency":"NPR",
+    "store":"ufonepal",
+    "storeUrl":"https:\/\/www.ufonepal.com\/shop\/shop-online\/men-online\/contrast-polo-shirt-2\/",
+    "imageUrl":"https:\/\/www.ufonepal.com\/ufo\/wp-content\/uploads\/2025\/06\/111459-_0005_DSC06216.jpg"
+  },
+  {
+    "id":"kitchenware-001",
+    "category":"Kithchenware",
+    "name":"Iron Kadai ( Medium) ",
+    "company":"Swodeshi",
+    "price":1370,
+    "currency":"NPR",
+    "store":"Swodeshi",
+    "storeUrl":"https:\/\/swodeshi.com\/product\/iron-kadai-medium\/",
+    "imageUrl":"https:\/\/swodeshi.com\/wp-content\/uploads\/2021\/08\/kadai-medium.webp"
+  },
+  {
+    "id":"kitchenware-002",
+    "category":"Kithchenware",
+    "name":"Iron Tai with Handle",
+    "company":"Swodeshi",
+    "price":1000,
+    "currency":"NPR",
+    "store":"Swodeshi",
+    "storeUrl":"https:\/\/swodeshi.com\/product\/iron-tai-with-handle\/",
+    "imageUrl":"https:\/\/swodeshi.com\/wp-content\/uploads\/2021\/09\/Taai-With-Handle1.png"
+  },
+  {
+    "id":"kitchenware-003",
+    "category":"Kithchenware",
+    "name":"Iron Tawa with Handle",
+    "company":"Swodeshi",
+    "price":800,
+    "currency":"NPR",
+    "store":"Swodeshi",
+    "storeUrl":"https:\/\/swodeshi.com\/product\/iron-tawa-with-handle\/",
+    "imageUrl":"https:\/\/swodeshi.com\/wp-content\/uploads\/2021\/09\/Tawa-Woth-Handle.png"
+  },
+  {
+    "id":"furniture-001",
+    "category":"Furniture",
+    "name":"Backus - F Bed 6ft - Lindberg Oak",
+    "company":"Bed",
+    "price":79000,
+    "currency":"NPR",
+    "store":"SB Furniture",
+    "storeUrl":"https:\/\/sbfurniturenepal.com\/shop\/19140436-backus-f-bed-6ft-lindberg-oak-23111?category=526#attr=25036,25033",
+    "imageUrl":"https:\/\/sbfurniturenepal.com\/web\/image\/product.product\/27505\/image_1024\/%5B19140436%5D%20Backus%20-%20F%20Bed%206ft%20-%20Lindberg%20Oak?unique=b651e38"
+  },
+  {
+    "id":"furniture-002",
+    "category":"Furniture",
+    "name":"Coffee Table ",
+    "company":"Etro",
+    "price":12510,
+    "currency":"NPR",
+    "store":"SB Furniture",
+    "storeUrl":"https:\/\/sbfurniturenepal.com\/shop\/19124827-etro-coffee-table-royal-acacia-clear-glass-5635?category=236#attr=17495,17496,17497",
+    "imageUrl":"https:\/\/sbfurniturenepal.com\/web\/image\/product.product\/4741\/image_1024\/%5B19124827%5D%20Etro%20Coffee%20Table%20-%20Royal%20Acacia-Clear%20Glass?unique=d464f30"
+  }
+]

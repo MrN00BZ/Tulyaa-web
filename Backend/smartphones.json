@@ -1,0 +1,211 @@
+[
+  {
+    "id": "evostore_phone-001",
+    "category": "Smartphones",
+    "name": "iPhone 16 Pro Max 256GB",
+    "company": "Apple",
+    "price": 197000,
+    "currency": "NPR",
+    "store": "Evostore",
+    "storeUrl": "https://evostore.com.np/apple-products/iPhone/iPhone16Pro16ProMax/iPhone16ProMax256GB",
+    "imageUrl": "https://evostore.com.np/image/cache/catalog/16pronatural-400x400.jpg"
+  },
+  {
+    "id": "daraz_phone-001",
+    "category": "Smartphones",
+    "name": "iPhone 16 Pro Max 256GB",
+    "company": "Apple",
+    "price": 197000,
+    "currency": "NPR",
+    "store": "Daraz",
+    "storeUrl": "https://www.daraz.com.np/products/apple-iphone-16-pro-max-69-inch-super-retina-xdr-oled-display-a18-chip-pro-camera-system-i164897694-s1181305969.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253Aiphone%252B16%252Bpro%252Bmax%253Bnid%253A164897694%253Bsrc%253ALazadaMainSrp%253Brn%253Affec1632a3e899f9780152ebee474d40%253Bregion%253Anp%253Bsku%253A164897694_NP%253Bprice%253A197000%253Bclient%253Adesktop%253Bsupplier_id%253A900157560206%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.np%252F%253Bslot%253A2%253Butlog_bucket_id%253A470687%253Basc_category_id%253A3%253Bitem_id%253A164897694%253Bsku_id%253A1181305969%253Bshop_id%253A94016%253BtemplateInfo%253A-1_A3_C%25231103_L%2523&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Bagmati%20Province&price=1.97E%205&priceCompare=skuId%3A1181305969%3Bsource%3Alazada-search-voucher%3Bsn%3Affec1632a3e899f9780152ebee474d40%3BoriginPrice%3A19700000%3BdisplayPrice%3A19700000%3BsinglePromotionId%3A-1%3BsingleToolCode%3AmockedSalePrice%3BvoucherPricePlugin%3A0%3Btimestamp%3A1751630034765&ratingscore=5.0&request_id=ffec1632a3e899f9780152ebee474d40&review=3&sale=6&search=1&source=search&spm=a2a0e.searchlist.list.2&stock=1",
+    "imageUrl": "https://img.drz.lazcdn.com/static/np/p/7ed0083d10bf5c722b301ecb68e1806c.png_720x720q80.png_.webp"
+  },
+  {
+    "id": "olizstore_phone-001",
+    "category": "Smartphones",
+    "name": "iPhone 16 Pro 128GB",
+    "company": "Apple",
+    "price": 166999,
+    "currency": "NPR",
+    "store": "OlizStore",
+    "storeUrl": "https://www.olizstore.com/apple-products/iphone/iphone-16-pro-16-pro-max/iphone-16-pro-128gb.html",
+    "imageUrl": "https://www.olizstore.com/media/catalog/product/cache/efed489c73f153d334cfb652c25a982f/i/p/iphone-16-pro-finish-select-202409-6-3inch_geo_us.jpg"
+  },
+  {
+    "id": "hamrobazar_phone-002",
+    "category": "Smartphones",
+    "name": "iPhone 16 Pro 128GB",
+    "company": "Apple",
+    "price": 157999,
+    "currency": "NPR",
+    "store": "Hamrobazar",
+    "storeUrl": "https://hamrobazaar.com/mobile-phone-handsets/apple-iphone/i-phone-16-pro-128gb-16-pro-16-pro-16-pro-16-pro-in-kathmandu/9c5af47cbbe020f78bebbc4518d0073d",
+    "imageUrl": "https://hamrobazaar.blr1.cdn.digitaloceanspaces.com/User/Posts/2025/07/02/ba12da8a-1033-fa98-6d8c-b1ff445481e3.webp?x-image-process=image/resize,m_lfit,h_500,w_500"
+  },
+  {
+    "id": "nayapurano_phone-001",
+    "category": "Smartphones",
+    "name": "iPhone 16 Pro 128GB",
+    "company": "Apple",
+    "price": 168700,
+    "currency": "NPR",
+    "store": "Daraz",
+    "storeUrl": "https://nayapurano.shop/products/apple-iphone-16-pro-brand-new?_pos=11&_sid=d1621dec8&_ss=r",
+    "imageUrl": "https://nayapurano.shop/cdn/shop/files/iPhone16ProBlackTitanium.jpg?v=1728883061&width=713"
+  },
+  {
+    "id": "olizstore_phone-002",
+    "category": "Smartphones",
+    "name": "iPhone 15 Pro Max ",
+    "company": "Apple",
+    "price": 207000,
+    "currency": "NPR",
+    "store": "OlizStore",
+    "storeUrl": "https://www.olizstore.com/apple-products/iphone/apple-iphone-15-pro-15-pro-max-in-nepal/iphone-15-pro-max-512gb-price-in-nepal.html",
+    "imageUrl": "https://www.olizstore.com/media/catalog/product/cache/a04ec30316eb04ee0a0c68cae51f73f4/r/o/rosa_iphone_15_pro_max_black_titanium_pdp_image_position-5_colors_1.jpg"
+  },
+  {
+    "id": "hukutstore_phone-001",
+    "category": "Smartphones",
+    "name": "iPhone 15 Pro Max ",
+    "company": "Apple",
+    "price": 233499,
+    "currency": "NPR",
+    "store": "Hukut Store",
+    "storeUrl": "https://hukut.com/iphone-15-pro-max-price-in-nepal",
+    "imageUrl": "https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2Fiphone%252015%2520pro%2520black%2520titanium%25201%2520.webp&w=1920&q=75"
+  },
+  {
+    "id": "bigbyte_phone-001",
+    "category": "Smartphones",
+    "name": "iPhone 15 Pro Max ",
+    "company": "Apple",
+    "price": 206000,
+    "currency": "NPR",
+    "store": "Bigbyte",
+    "storeUrl": "https://bigbyte.com.np/apple-iphone-15-pro-max-256gb-price-in-nepal/",
+    "imageUrl": "https://bigbyte.com.np/wp-content/uploads/2024/07/Apple-15-Pro-Max-256GB-Natural-Titaniumn-price-in-nepal-bigbyte.com_.np_-scaled.jpg"
+  },
+  {
+    "id": "samsungplaza_phone-001",
+    "category": "Smartphones",
+    "name": "Galaxy S25 Ultra",
+    "company": "Samsung",
+    "price": 184999,
+    "currency": "NPR",
+    "store": "Samsungplaza",
+    "storeUrl": "https://www.samsungplaza.com.np/detail/galaxy-s25-ultra?srsltid=AfmBOorNC6XHPS9-8JlRhupkeskNQa8U8m_4J4L4UjD4sLqt0NQbqCs_",
+    "imageUrl": "https://www.samsungplaza.com.np/public/files/C1750F8A3652D16-SM-S938_GalaxyS25Ultra_Front_TitaniumBlack.png"
+  },
+  {
+    "id": "hamrobazar_phone-003",
+    "category": "Smartphones",
+    "name": "Galaxy S25 Ultra",
+    "company": "Samsung",
+    "price": 159999,
+    "currency": "NPR",
+    "store": "Hamrobazar",
+    "storeUrl": "https://hamrobazaar.com/product/samsung-galaxy-s25-ultra-12256gb-gag-nepal-in-kathmandu/9d2023123c09694995aa711ff6672746",
+    "imageUrl": "https://hamrobazaar.blr1.cdn.digitaloceanspaces.com/User/Posts/2025/02/01/a5a7a91a-3701-5246-13ba-9a23c0493bc3.jpeg?x-image-process=image/resize,m_lfit,h_500,w_500"
+  },
+  {
+    "id": "hukutstore_phone-002",
+    "category": "Smartphones",
+    "name": "Galaxy S25 Ultra",
+    "company": "Samsung",
+    "price": 184999,
+    "currency": "NPR",
+    "store": "Hukut Store",
+    "storeUrl": "https://hukut.com/samsung-galaxy-s25-ultra",
+    "imageUrl": "https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2Fsamsung-s25-ultra-price-in-nepal-4.png1738228458837&w=1920&q=75"
+  },
+  {
+    "id": "samsungplaza_phone-002",
+    "category": "Smartphones",
+    "name": "Galaxy A55 5G",
+    "company": "Samsung",
+    "price": 62999,
+    "currency": "NPR",
+    "store": "Samsungplaza",
+    "storeUrl": "https://www.samsungplaza.com.np/detail/galaxy-a55-5g?srsltid=AfmBOoqHH7ZWFrBYmMj5wHb0QFjsNV5LOhztSsB5SAgffsHAT9odTUr-",
+    "imageUrl": "https://www.samsungplaza.com.np/public/files/7C685E2D3F1D08E-A556_Awesome%20Lilac.png"
+  },
+  {
+    "id": "daraz_phone-002",
+    "category": "Smartphones",
+    "name": "Galaxy A55 5G ",
+    "company": "Samsung",
+    "price": 67999,
+    "currency": "NPR",
+    "store": "Daraz",
+    "storeUrl": "https://www.daraz.com.np/products/samsung-galaxy-a55-5g-12gb256gb-with-25w-power-adapter-cover-i130030841.html",
+    "imageUrl": "https://img.drz.lazcdn.com/static/np/p/c87d51c92ca1218c3eb4457072af051c.png_720x720q80.png_.webp"
+  },
+  {
+    "id": "bigbyte_phone-002",
+    "category": "Smartphones",
+    "name": "Galaxy A55 5G ",
+    "company": "Samsung",
+    "price": 62999,
+    "currency": "NPR",
+    "store": "Bigbyte",
+    "storeUrl": "https://bigbyte.com.np/samsung-galaxy-a55-5g-with-8gb-of-ram-and-256gb/",
+    "imageUrl": "https://bigbyte.com.np/wp-content/uploads/2025/01/Samsung-Galaxy-A55-5G-8GB-RAM-and-256GB-scaled.jpg"
+  },
+  {
+    "id": "daraz_phone-003",
+    "category": "Smartphones",
+    "name": "Redmi Note 14",
+    "company": "Xiaomi",
+    "price": 30999,
+    "currency": "NPR",
+    "store": "Daraz",
+    "storeUrl": "https://www.daraz.com.np/products/redmi-note-14-5g-8256gb-667-amoled-display-mediatek-dimensity-7025-ultra-5110-mah-battery-45w-turbo-charging-i181332630.html",
+    "imageUrl": "https://img.drz.lazcdn.com/static/np/p/b605d484129d992e0473092ce3b9e8d8.jpg_720x720q80.jpg_.webp"
+  },
+  {
+    "id": "neostore_phone-001",
+    "category": "Smartphones",
+    "name": "Redmi Note 14",
+    "company": "Xiaomi",
+    "price": 24999,
+    "currency": "NPR",
+    "store": "Neostore",
+    "storeUrl": "https://www.neostore.com.np/product/xiaomi-redmi-note-14-4g?srsltid=AfmBOoqA9KRB_6N5XXSZsb8DJLWBufY8LI4Gzk_n5d_d84x85reIqBCv",
+    "imageUrl": "https://www.neostore.com.np/assets/uploads/redmi_note_14_4g_global_1.jpg"
+  },
+  {
+    "id": "bigbyte_phone-003",
+    "category": "Smartphones",
+    "name": "Redmi Note 15",
+    "company": "Xiaomi",
+    "price": 35800,
+    "currency": "NPR",
+    "store": "Bigbyte",
+    "storeUrl": "https://bigbyte.com.np/redmi-note-14-5g-12gb-512gb/",
+    "imageUrl": "https://bigbyte.com.np/wp-content/uploads/2025/01/Redmi-Note-14-12gb512gb.webp"
+  },
+  {
+    "id": "hukutstore_phone-003",
+    "category": "Smartphones",
+    "name": "Vivo V40",
+    "company": "Vivo",
+    "price": 64999,
+    "currency": "NPR",
+    "store": "Hukut Store",
+    "storeUrl": "https://hukut.com/vivo-v40-5g-price-in-nepal",
+    "imageUrl": "https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2Fvivo-v40-5g-nebula-purple-price-in-nepal.png1726823424680&w=1920&q=75"
+  },
+  {
+    "id": "daraz_phone-004",
+    "category": "Smartphones",
+    "name": "Vivo V40",
+    "company": "Vivo",
+    "price": 65999,
+    "currency": "NPR",
+    "store": "Daraz",
+    "storeUrl": "https://www.daraz.com.np/products/vivo-v40-5g-12256-50-mp-zeiss-cinematic-portrait-ip-68-69-dust-and-water-resistance-5500-mah-bluevolt-battery-with-80w-flash-charge-i156317241.html",
+    "imageUrl": "https://img.drz.lazcdn.com/static/np/p/e77779bea1e9341ce4bdff0229ed2a29.jpg_720x720q80.jpg_.webp"
+  }
+]

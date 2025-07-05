@@ -1,0 +1,24 @@
+[
+  {
+    "id":"ufo_clothing-001",
+    "category":"Clothing",
+    "name":"Contrast Polo Shirt",
+    "company":"UFO",
+    "price":2278,
+    "currency":"NPR",
+    "store":"ufonepal",
+    "storeUrl":"https:\/\/www.ufonepal.com\/shop\/shop-online\/men-online\/contrast-polo-shirt-2\/",
+    "imageUrl":"https:\/\/www.ufonepal.com\/ufo\/wp-content\/uploads\/2025\/06\/111459-_0005_DSC06216.jpg"
+  },
+  {
+    "id":"clothesnepal",
+    "category":"Clothing",
+    "name":"Chiffon",
+    "company":"ClothesNepal",
+    "price":2600,
+    "currency":"NPR",
+    "store":"ClothesNepal",
+    "storeUrl":"https:\/\/clothesnepal.com\/product\/cn3354\/",
+    "imageUrl":"https:\/\/clothesnepal.com\/wp-content\/uploads\/2020\/02\/CN3354-768x768.jpg"
+  }
+]
