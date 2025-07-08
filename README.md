@@ -1,2 +1,2 @@
-___________________________________________________________________ TULYAA - A ecommerce price comparison website ___________________________________________________________________
-                                                                  ( using mock data for easiness can be upgraaded later)
+__________________________________________________ TULYAA - A ecommerce price comparison website ______________________________________________
+********************************************** (using mock data for easiness can be upgraaded later)*********************************************
